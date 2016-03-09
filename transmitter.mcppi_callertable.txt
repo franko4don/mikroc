@@ -1,0 +1,10 @@
+main
+	__CC2DW
+		____DoICP
+	encodeSignal
+	transmitSignal
+		preamble
+			delay500us
+		delay3ms
+		delay500us
+		bitRead
